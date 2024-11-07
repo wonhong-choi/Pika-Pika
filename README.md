@@ -18,3 +18,9 @@
 - [ ] 로딩창 (게임 참여하기)
 - [ ] 게임 배경 창
 - [ ] 결과 창
+
+### Code Style
+- [ ] [Google Style Guide C#](https://google.github.io/styleguide/csharp-style.html)
+
+### 아키텍처
+- MVVM
