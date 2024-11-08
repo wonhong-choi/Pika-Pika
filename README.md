@@ -1,8 +1,10 @@
 # Pika-Pika
 
-## 사용 언어
-- .Net 8
+## 기술 스택
+- .Net 8.0
 - WPF
+- CommunityToolkit
+- NUnit
 
 ## V1
 - 1대 1 UDP 통신 피카츄 배구
