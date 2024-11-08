@@ -27,6 +27,7 @@
         <Button Grid.Row="1" Grid.Column="1" Margin="50" Content="Game Start"
                 Command="{Binding WaitMatchingCommand}"></Button>
         
-        <Button Grid.Row="2" Grid.Column="1" Margin="50" Content="End Game"></Button>
+        <Button Grid.Row="2" Grid.Column="1" Margin="50" Content="End Game"
+                Command="{Binding EndGameCommand}"></Button>
     </Grid>
 </UserControl>
